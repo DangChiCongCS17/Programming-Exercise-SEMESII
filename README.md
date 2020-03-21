@@ -1,2 +1,3 @@
 # Programming-Exercise-SEMESII
-Project
+Badminton court booking system mobile app
+Database for the projetc
